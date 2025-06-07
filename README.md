@@ -1,8 +1,9 @@
 # Synapse: Your AI Science Partner 💡
-
+![](<./_static/thumbnail.png>)
 **An interactive AI workbench designed to accelerate cross-disciplinary scientific discovery, from initial spark to critically-vetted proposal.**
 
 ---
+
 
 *Built for the Bio x AI Hackathon 2025.*
 
